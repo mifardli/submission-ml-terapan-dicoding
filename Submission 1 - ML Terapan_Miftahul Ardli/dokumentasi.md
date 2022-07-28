@@ -79,7 +79,7 @@ Setelah dilakukan proses modelling dengan menentukan metrik yang digunakan untuk
   (<i>source</i> : Dokumentasi Pribadi)
 
 <p> Kemudian, dilakukan <i>plotting</i> untuk hasil perhitungan mse tersebut dengan tujuan agar lebih mudah dalam memahami hasil mse yang dihaslkan oleh metrik tersebut.
-
+	
   <img src="https://user-images.githubusercontent.com/75966846/181481720-887cce8e-7300-4f1f-91b1-7b353fce2d65.png">
 
   (<i>source</i> : Dokumentasi Pribadi)
