@@ -16,8 +16,8 @@ Metodologi yang dipakai untuk jenis permasalahan tersebut ialah menggunakan pred
 Dalam pembuatan model prediktif ini, digunakan dataset yang diambil dari dataset salah satu *library* yang tersedia dalam bahasa pemrograman R
 (tidyverse), yaitu 'economics'. Data ini diambil dari *Federal Reserve Bank of St. Louis*, salah satu bank penyedia jasa data ekonomi untuk negara Amerika Serikat.
 
-
-(*source* : [[Federal Reserve Economic Data \| FRED \| St. Louis Fed (stlouisfed.org)]{.ul}](https://fred.stlouisfed.org/))
+<image src="
+(*source* :<a href="https://fred.stlouisfed.org/">Federal Reserve Economic Data RED  St. Louis Fed</a>)
 
 Dataset yang disediakan tersebut mencakup beberapa variabel yang dianggap penting, beberapa variabel tersebut ialah data terkait populasi, pengangguran, dan konsumsi pribadi sehubungan dengan tahun dan bulan. Dataset ini dihasilkan dari data deret waktu ekonomi AS yang tersedia dari Federal Reserve Bank of St. Louis.
 
