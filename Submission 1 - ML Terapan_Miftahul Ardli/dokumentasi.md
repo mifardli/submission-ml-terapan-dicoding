@@ -44,7 +44,8 @@ Harapannya, setelah membuat model, permasalahan-permasalahan tersebut dapat terj
 
 <p>Dataset yang disediakan tersebut mencakup beberapa variabel yang dianggap penting, beberapa variabel tersebut ialah data terkait populasi, jumlah pengangguran, dan konsumsi pribadi serta tahun dan bulan. Dataset ini dihasilkan dari data deret waktu (<i>Time  Series</i>) ekonomi AS yang tersedia dari Federal Reserve Bank of St. Louis.</p>
 <p>Deskripsi terkait variabel dataset diuraikan sebagai berikut
-
+	
+	
 <img src="https://user-images.githubusercontent.com/75966846/181481603-f78b936f-6d81-470c-9955-fae299a4cc19.png">
 </p>
   <p>(<i>source</i>:<a href="https://www.rpubs.com/mperlow/552127">RPubs - Economics Data</a>)</p>
